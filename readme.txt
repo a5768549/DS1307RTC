@@ -4,4 +4,4 @@ The DS1307RTC library is provided to demonstrate the Arduino Time library.
 
 See the TimeRTC example sketches privided with the Time library download for usage
 
-
+已經過修改，可用於ESP系列晶片
